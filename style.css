@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+}
+
+
+/*part1 header*/
+
+#header {}
+
+#logo {}
+
+#navbar {}
+
+ul {}
+
+.cont {}
+
+#right,
+#left {}
+
+#top-middle {}
+
+#singnup {}
+
+
+/*part2 information*/
+
+#h1 {}
+
+#info {}
+
+#section-one {}
+
+.pics {}
+
+.imgs {}
+
+.text {}
+
+
+/*part3 information*/
+
+#quote {}
+
+#p1 {}
+
+#p2 {}
+
+
+/*part4 information*/
+
+#footer {}
+
+#box {}
