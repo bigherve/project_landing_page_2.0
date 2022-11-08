@@ -101,17 +101,13 @@ button {
 #section-one {
     display: flex;
     justify-content: center;
-    padding: 80px;
-    gap: 50px;
-}
-
-.pics {
-    width: 500px;
+    padding: 70px;
+    gap: 35px;
 }
 
 .imgs {
-    width: 350px;
-    height: 300px;
+    width: 340px;
+    height: 290px;
     border: 5px solid #f00;
     border-radius: 10%;
 }
@@ -119,7 +115,7 @@ button {
 .text {
     padding: 10px;
     text-align: left;
-    font-size: 23px;
+    font-size: 22px;
 }
 
 
@@ -131,13 +127,13 @@ button {
     justify-content: center;
     padding: 100px;
     background: #000;
-    font-size: 35px;
+    font-size: 30px;
     color: #fff;
 }
 
 #p2 {
     padding: 20px;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 
@@ -147,6 +143,10 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+#footer a {
+    color: #000;
 }
 
 #box {
