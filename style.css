@@ -120,11 +120,20 @@ button {
 
 /*part3 information*/
 
-#quote {}
+#quote {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+    background: #000;
+    font-size: 35px;
+    color: #fff;
+}
 
-#p1 {}
-
-#p2 {}
+#p2 {
+    padding: 20px;
+    font-size: 30px;
+}
 
 
 /*part4 information*/
